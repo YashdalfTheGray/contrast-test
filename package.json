@@ -35,7 +35,7 @@
     "lint-staged": "^17.0.8",
     "prettier": "^3.8.3",
     "sass": "^1.101.6",
-    "typescript": "^5.9.3",
+    "typescript": "^7.0.2",
     "uglify-js": "^3.19.3"
   },
   "lint-staged": {
